@@ -1,6 +1,7 @@
 /*a variable is a container. It can contain words, numbers, objects, lists, and much much more.
 to create a variable, you use the "var" type. After "var" you select the letter/word you want
-to use to call. On the right side of the = you set the value you want to be called. */
+to use to call. On the right side of the = you set the value you want to be called.
+There ARE different types of var (const / let), but for now we'll focus on what comes after the var*/
 
 
 /*
