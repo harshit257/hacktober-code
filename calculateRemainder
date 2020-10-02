@@ -1,0 +1,14 @@
+"""
+    Problem statement: How to calculate the remainder in Python
+"""
+
+
+# returns the remainder when x_div is divided by y
+def remainder(x_div, y_divisor):
+    return x_div % y_divisor
+
+
+if __name__ == '__main__':
+    x = int(input("Enter Number to be divided"))
+    y = int(input("Enter the divisor"))
+    remainder(x, y)
